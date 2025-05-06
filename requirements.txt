@@ -1,0 +1,4 @@
+quotexpy
+python-dotenv
+termcolor
+python-telegram-bot>=20.0 
